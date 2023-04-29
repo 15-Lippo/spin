@@ -32,7 +32,7 @@ contract CoinFlip is VRFV2WrapperConsumerBase {
 
     // link contract address and wrappper address on polygon
     address constant linkAddress = 0x326C977E6efc84E512bB9C30f76E30c160eD06FB;
-    address constant vrfWrapperAddress = 0x99aFAf084eBA697E584501b8Ed2c0B37Dd136693;
+    address constant Lsp20WrapperAddress = 0x70E546c7a2cA4495cFcbE263a3b6D5ce68B2204C;
 
     //entry fee [update on function on the frontend later on]
     // uint128 constant entryFees = 0.01 ether;
